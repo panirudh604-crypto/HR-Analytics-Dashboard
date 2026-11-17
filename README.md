@@ -54,10 +54,11 @@ The dashboard focuses on six key areas:
 
 Microsoft Excel| Power Query| Power Pivot| DAX| PivotTables| PivotCharts
 
-## Dataset Link:
+## Dataset Source:
 
 https://www.kaggle.com/datasets/somenath04/hr-workforce-and-performance-analytics?select=job_roles.csv
 
 
 This project provided practical experience in using Excel for data preparation, data modeling, DAX calculations and interactive dashboard development.
+
 It also helped me understand the additional effort involved in building interactive dashboards in Excel, particularly in managing slicer connections, arranging visuals and maintaining a consistent layout compared to Power BI.
