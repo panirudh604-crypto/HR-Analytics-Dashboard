@@ -2,7 +2,7 @@
 This project explores employee data to understand workforce composition, hiring trends, salary distribution and employee performance.
 Using Microsoft Excel, I analyzed a synthetic HR dataset containing 10,000 employee records and developed a single-page interactive dashboard to present key workforce metrics and uncover meaningful insights.
 
-🎯 ** Project Objectives:**
+🎯 ## **Project Objectives**
 
 • Examine employee distribution across departments and demographics.
 • Identify hiring trends over time.
@@ -11,7 +11,7 @@ Using Microsoft Excel, I analyzed a synthetic HR dataset containing 10,000 emplo
 • Understand employee performance rating patterns.
 • Monitor workforce metrics through interactive filters.
 
-📊 Dashboard Analysis:
+📊 ## **Dashboard Analysis:**
 
 The dashboard focuses on six key areas:
 
