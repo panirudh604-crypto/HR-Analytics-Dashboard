@@ -27,18 +27,27 @@ The dashboard focuses on six key areas:
 ## Key Metrics:
 
 • **Total Employees:** 10,000
+
 • **Active Employees:** 8,488 (84.88%)
+
 • **Gross Payroll:** 755.5M
+
 • **Average Work Experience:** 6 Years
+
 • **Average Performance Rating:** 3.78
 
 ## Key Insights:
 
 • Product has the highest employee count with 1,166 employees.
+
 • The workforce has a nearly equal gender split with 4,983 male and 5,017 female employees.
+
 • 2017 recorded the highest number of hires with 903 employees.
+
 • Employees with 8 years of experience form the largest group with 901 employees.
+
 • Customer Service has the highest average gross salary at 76,908.34.
+
 • A rating of 3.9 is the most common recorded for 641 employees.
 
 ## Tools Used:
